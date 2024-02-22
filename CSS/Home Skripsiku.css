@@ -1,0 +1,75 @@
+*{background-color: rgb(191, 193, 192); 
+    padding:0;
+    margin: 0;}
+header{
+    background-color: darkorange;}
+.Judul{display:flex; 
+    font-size: 38px;
+font-family: 'Franklin Gothic Medium';
+color: rgb(42, 49, 49);
+background-color: darkorange;
+padding-top: 32px;
+padding-left: 10px;
+padding-bottom: 5px;}
+.konten{position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 19px;
+    font-family: 'Arial Narrow';
+    margin-top: 50px;
+    justify-content: center;
+word-spacing: 5px;}
+.Gambar{margin-bottom: 32px;}
+.awal{margin-left: 75px;
+margin-top: 75px;}
+#Txtjudul{ font-size: 23px;
+    font-weight: 700;
+    margin-top: 25px;
+margin-left: 58px;
+margin-bottom: 10px;}
+#TXT{
+    text-align: justify;
+width: 800px;
+margin-left: 50px;}
+
+#kocak1{display: flex;
+    font-size: 20px;
+    font-family:Georgia,;
+    font-weight: 800;
+    text-decoration: none;
+justify-content: right;
+margin-right: 150px;
+margin-top: 100px;}
+#lotak1{text-decoration: none;
+background-color:whitesmoke;
+padding: 20px;
+border: 0.9px solid black;
+margin-right: 40px;}
+#lotak2{text-decoration: none;
+    background-color:whitesmoke;
+    padding: 20px;
+    border: 0.9px solid black;}
+#lotak3{text-decoration: none;
+    background-color:whitesmoke;
+    padding: 20px;
+    border: 0.9px solid black;
+    margin-left: 40px;}
+    .Bawah{position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        background-color:blueviolet;
+margin-top: 0;
+padding-bottom: 20px;
+width: 100%;}
+.Ucup{position: relative;
+    margin-left: 87%;
+    margin-top:10px;
+    background-color:blueviolet;
+}
+a.Ucup{text-decoration: none;
+    font-size: 20px;
+    font-family: arial;
+    color:black;
+    word-spacing: -1px;
+}
+
