@@ -31,7 +31,7 @@ margin-left: 1%;}
 font-family: Verdana;
 }
 .kocak1 {display:flex;
-flex-wrap: nowrap;
+flex-wrap: wrap;
 justify-content:space-around ;
     font-size: 118%;
     text-decoration: none;
