@@ -1,78 +1,77 @@
 *{background-color: #fff3e0 ;
-    padding: 0;
-margin: 0;
-min-width: auto;
-    max-width: 100%;}
-.Judul{background-color: #00b8d4;
-;
-padding: 1%;
-min-width: auto;
-max-width: 100%;
-font-family: 'Franklin Gothic Medium';
-font-size: 32px;}
-.konten{display: flex;
-    flex-wrap: wrap;
-align-items: center;
-margin-left: 10%;
-}
-.Gambar{margin-left: -3%;
-    margin-top: 3%;}
-.awal{height: 10%;
-width: 50%;
-text-align: justify;
-margin-left: 4%;
-margin-top: 3%;
-}
-#Txtjudul{font-size: 123%;
-font-family: 'Arial Narrow', ;
-font-weight: 700;
-margin-left: 1%;}
-#TXT {font-size: 100%;
-font-family: Verdana;
-}
-.kocak1 {display:flex;
-flex-wrap: wrap;
-justify-content:space-around ;
-    font-size: 118%;
-    text-decoration: none;
-font-family:cursive;
-font-weight: 800;
-margin-top: 12%;
-margin-right: 3%;
+    *{background-color: #fff3e0 ;
+        padding: 0;
+    margin: 0;}
+  }
+    .Judul{background-color: #00b8d4;
+    ;
+    padding: 1%;
+    min-width: auto;
+    max-width: 100%;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 32px;}
+    .konten{display: flex;
+        flex-wrap: wrap;
+    justify-content: space-around;
+    justify-content: center;
+    
+    }
+    .Gambar{margin-top: 5%;
+    margin-left:5%;
+margin-right: 5%;}
+    .awal{height: 10%;
+    width: 600px;
+    text-align: justify;
+    margin-top: 16%;
+    margin-right: 5%;
+    margin-left: 5%;
+    }
+    #Txtjudul{font-size: 123%;
+    font-family: 'Arial Narrow', ;
+    font-weight: 700;
+    margin-left: 1%;}
+    #TXT {font-size: 100%;
+    font-family: Verdana;
+    }
+    .kocak1 {display:flex;
+        flex-wrap:wrap;
+    justify-content:space-around ;
+    justify-items: center;
+        font-size: 100%;
+        text-decoration: none;
+    font-family:cursive;
+    font-weight: 800;
+    margin-top:10%;
 
-}
-#lotak1{border: 1px solid black;
-background-color: #ffffff;
-text-decoration: none;
-padding: 16px;
-}
-#lotak2{border: 1px solid black;
+    }
+    #lotak1{border: 1px solid black;
     background-color: #ffffff;
     text-decoration: none;
-    padding: 16px;
-    margin-bottom: 32px;}
-    #lotak3{border: 1px solid black;
+    padding: 8px;
+    }
+    #lotak2{border: 1px solid black;
         background-color: #ffffff;
         text-decoration: none;
-        padding: 16px;}
-.Bawah{display: flex;
-    flex-wrap: wrap; 
-    text-decoration: none;
-
-background-color: aqua;
-    margin-top: 90px;
-    margin-left: -11%;
-    padding-bottom: 1%;
-    padding-right: 11%;
+        padding: 8px;
+    }
+        #lotak3{border: 1px solid black;
+            background-color: #ffffff;
+            text-decoration: none;
+            padding: 8px;}
+footer{ display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    background-color: #00b8d4;
+    margin-top:42px;
+padding-top: 1%;
 width: 100%;}
 a.Ucup{display: flex;
+    flex-wrap: wrap;
     text-decoration: none;
-    font-family: Georgia;
-    font-size: 107%;
-    font-weight: 500;
-    background-color: aqua;
-    color:#424242;
-  margin-top: 16px;
-    margin-left: auto;
-    }
-  @media screen and (min-width: 320px) {.Gambar .awal #TXT .kocak1 .Bawah {width: 100%;}}
+font-family: Georgia;
+font-size: 18px;
+background-color: #00b8d4;
+color: black;
+margin-bottom: 10px;
+margin-left: auto;
+margin-right: 13%;}
