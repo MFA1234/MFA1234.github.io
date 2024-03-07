@@ -14,17 +14,16 @@
         flex-wrap: wrap;
     justify-content: space-around;
     justify-content: center;
-    
     }
     .Gambar{margin-top: 5%;
-    margin-left:5%;
+    
 margin-right: 5%;}
     .awal{height: 10%;
-    width: 600px;
+    width: 580px;
     text-align: justify;
     margin-top: 16%;
     margin-right: 5%;
-    margin-left: 5%;
+
     }
     #Txtjudul{font-size: 123%;
     font-family: 'Arial Narrow', ;
@@ -74,4 +73,4 @@ background-color: #00b8d4;
 color: black;
 margin-bottom: 10px;
 margin-left: auto;
-margin-right: 13%;}
+margin-right: 21%;}
